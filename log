@@ -1,0 +1,3 @@
+直接用vim-plug安装，在github上搜索该插件
+进入YCM文档，运行run_test.py进行环境检测
+最后install.py
