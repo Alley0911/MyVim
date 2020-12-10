@@ -1,3 +1,8 @@
 直接用vim-plug安装，在github上搜索该插件
 进入YCM文档，运行run_test.py进行环境检测
 最后install.py
+ 2194  conda install pytest
+ 2196  conda install hamcrest
+ 2198  conda install hamcrest
+ 2199  pip3 install PytestTests
+
